@@ -1,2 +1,2 @@
 # hello-world
-just another respository
+respect the new developer
